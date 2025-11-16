@@ -1,8 +1,8 @@
-###Threshold Aware Cosine Similarity Driven Box Projection and Weighted Fusion for Confidence Recovery in Single Drone Tracking
+### Threshold Aware Cosine Similarity Driven Box Projection and Weighted Fusion for Confidence Recovery in Single Drone Tracking
 
 This is the code showcasing the use of Circular Temporal WBF for Single Drone Tracking in various clear and noisy datasets.
 
-##Setup
+## Setup
 1. Model & Dataset
 For demonstration of our paper we have used YOLOv5 here. The weights for YOLOv5 can be found in google drive link below:-
 [YOLOv5](https://drive.google.com/file/d/1k08PKmNOICoMIip3YkkkiZ_Lh1ygVmvP/view?usp=sharing)
@@ -27,7 +27,7 @@ cd yolov5
 pip install -r requirements.txt
 cd ..
 
-##Running
+## Running
 After you have downloaded the weights and dataset, and completed the setup, you need to set the following variables in main.ipynb
 
 input_folder = "path to dataset videos" 
