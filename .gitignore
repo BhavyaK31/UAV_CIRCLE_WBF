@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+dataset/
+result/
+yolov5/
+*.pt
