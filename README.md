@@ -22,7 +22,7 @@ This is the code showcasing the use of Circular Temporal WBF for Single Drone Tr
     ```bash
     python -m venv .venv
     .venv\Scripts\activate.bat
-    git clone https://github.com/BhavyaK31/UAV_CIRCLE_WBF.git
+    git clone https://github.com/BhavyaK31/UAV-CIRCLE-WBF.git
     git clone https://github.com/ultralytics/yolov5
     cd yolov5
     pip install -r requirements.txt
